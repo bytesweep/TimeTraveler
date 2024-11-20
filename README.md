@@ -73,6 +73,3 @@ Date,Start Time,Start Timezone,End Time,End Timezone,Total Hours Worked,DST Adju
 ```
 
 ---
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
